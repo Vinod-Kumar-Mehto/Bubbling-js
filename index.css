@@ -1,0 +1,18 @@
+div{
+    width: 100%;
+    padding: 100px;
+}
+
+.one{
+    background-color: brown;
+    width: auto;
+}
+.two{
+    background-color: cadetblue;
+}
+.three{
+    background-color: rgb(73, 196, 16);
+}
+.ano{
+    background-color: crimson;
+}
